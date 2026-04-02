@@ -1,2 +1,3 @@
-# website-fix-demo-
-`Demo fix bug website WordPress - siap jual freelance`
+# 🚀 Website Bug Fix & Speed Demo (Before/After)
+
+## ❌ BEFORE FIX (Masalah Client Umum)
